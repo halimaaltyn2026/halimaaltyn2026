@@ -3,21 +3,14 @@
 Я начинающий Frontend-разработчик. С января 2026 года активно учусь веб-разработке через приложение «Кодик». Постоянно практикуюсь и создаю свои первые проекты.
 
 ## 🛠️ Технологии
-
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JS](https://shields.io)
-![Git](https://shields.io)
+* HTML5
+* CSS3
+* JavaScript
+* Git
 
 ## 📊 Статистика GitHub
-
-![Stats](https://vercel.app)
-
-
-### 📊 Моя статистика GitHub
-
-![Статистика Халимы](https://vercel.app)
-
+<img src="https://vercel.app" width="100%" />
 
 ## 📫 Как со мной связаться:
-* **Email:** altynhalima25@mail.ru
+* **Email:** altynhalima25@gmail.ru
+
