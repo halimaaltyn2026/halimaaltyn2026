@@ -8,8 +8,6 @@
 * JavaScript
 * Git
 
-## 📊 Статистика GitHub
-<img src="https://vercel.app" width="100%" />
 
 ## 📫 Как со мной связаться:
 * **Email:** altynhalima25@gmail.ru
