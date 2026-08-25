@@ -29,4 +29,4 @@
 ### 📂 Мои главные проекты:
 * 📑 [Моё Портфолио](https://halimaaltyn2026.github.io/my-projects/) — сайт-визитка, где собраны мои первые шаги.
 * 📋 [Форма Вебинара](https://halimaaltyn2026.github.io/my-projects/webinar.html) — интерактивная форма регистрации.
-* 🧠 [База Знаний](https://halimaaltyn2026.github.io/my-html-css-cheat-sheet/) — моя личная шпаргалка по тегам и свойствам.
+* 🧠 [База Знаний](https://halimaaltyn2026.github.io/html-css-cheat-sheet/) — моя личная шпаргалка по тегам и свойствам.
