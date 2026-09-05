@@ -31,6 +31,6 @@
 * 📋 [Форма Вебинара](https://halimaaltyn2026.github.io/my-projects/webinar.html) — интерактивная форма регистрации.
 * 🧠 [База Знаний](https://halimaaltyn2026.github.io/html-css-cheat-sheet/) — моя личная шпаргалка по тегам и свойствам.
 * ☕ [Кофейня](https://halimaaltyn2026.github.io/my-projects/coffee.html) — адаптивный сайт для уютного кафе.
-* 📝 [Блог](https://halimaaltyn2026.github.io/blog.html) — персональный блог с интересными статьями.
-* 🔑 [Генератор паролей](https://halimaaltyn2026.github.io/password.html) — интерактивное веб-приложение для безопасности.
-* ✅ [Список задач](https://halimaaltyn2026.github.io/to-do.html) — удобный планировщик дел на день.
+* 📝 [Блог](https://halimaaltyn2026.github.io/my-projects/blog.html) — персональный блог с интересными статьями.
+* 🔑 [Генератор паролей](https://halimaaltyn2026.github.io/my-projects/password.html) — интерактивное веб-приложение для безопасности.
+* ✅ [Список задач](https://halimaaltyn2026.github.io/my-projects/to-do.html) — удобный планировщик дел на день.
