@@ -33,4 +33,4 @@
 * ☕ [Кофейня](https://halimaaltyn2026.github.io/coffee.html/) — адаптивный сайт для уютного кафе.
 * 📝 [Блог](https://halimaaltyn2026.github.io/blog.html/) — персональный блог с интересными статьями.
 * 🔑 [Генератор паролей](https://halimaaltyn2026.github.io/password.html/) — интерактивное веб-приложение для безопасности.
-* ✅ [Список задач] (https://halimaaltyn2026.github.io/to-do.html/) — удобный планировщик дел на день.
+* ✅ [Список задач](https://halimaaltyn2026.github.io/to-do.html/) — удобный планировщик дел на день.
