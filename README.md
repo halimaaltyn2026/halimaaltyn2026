@@ -8,7 +8,7 @@
 ### 🛠 Технологии:
 * HTML5
 * CSS3
-* JavaScript - Закрепляю все пройденные темы. 
+* JavaScript 
 * Git
 * Typescript - Активно изучаю прямо сейчас. 
 
