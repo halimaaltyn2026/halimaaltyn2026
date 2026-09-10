@@ -28,5 +28,5 @@
 * ☕ [Кофейня](https://halimaaltyn2026.github.io/my-projects/coffee.html) — адаптивный сайт для уютного кафе.
 * 📝 [Блог](https://halimaaltyn2026.github.io/my-projects/blog.html) — персональный блог с интересными статьями.
 * 🔑 [Генератор паролей](https://halimaaltyn2026.github.io/my-projects/password.html) — интерактивное веб-приложение для безопасности.
-* ✅ [Список задач](https://halimaaltyn2026.github.io/my-projects/todo.html) — удобный планировщик дел на день.
+*  📝 [Список задач](https://halimaaltyn2026.github.io/my-projects/todo.html) — удобный планировщик дел на день.
 * 👩‍💻 [Моя визитка](https://halimaaltyn2026.github.io/my-projects/profile.html) — цифровая карточка веб-разработчика.
