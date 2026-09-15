@@ -31,3 +31,5 @@
 *  📝 [Список задач](https://halimaaltyn2026.github.io/my-projects/todo.html) — удобный планировщик дел на день.
 * 🪪 [Моя визитка](https://halimaaltyn2026.github.io/my-projects/profile.html) — цифровая карточка веб-разработчика.
 * 📝 [Мои шпаргалки](https://halimaaltyn2026.github.io/html-css-cheat-sheet/) — шпаргалки.
+* ⏳ [Песочница](https://halimaaltyn2026.github.io/sandbox) — место для тестирования кода и мелких скриптов.
+
