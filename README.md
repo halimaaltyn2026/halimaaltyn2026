@@ -30,5 +30,5 @@
 * 🔑 [Генератор паролей](https://halimaaltyn2026.github.io/my-projects/password.html) — интерактивное веб-приложение для безопасности.
 *  📝 [Список задач](https://halimaaltyn2026.github.io/my-projects/todo.html) — удобный планировщик дел на день.
 * 🪪 [Моя визитка](https://halimaaltyn2026.github.io/my-projects/profile.html) — цифровая карточка веб-разработчика.
-* ⏳ [Песочница](https://halimaaltyn2026.github.io/sandbox) — место для тестирования кода и мелких скриптов.. 
-
+* ⏳ [Песочница](https://halimaaltyn2026.github.io/sandbox) — место для тестирования кода и мелких скриптов.
+* 🧮 [Калькулятор](https://halimaaltyn2026.github.io/my-projects/calculator.html) - Простой калькулятор на JavaScript с базовыми операциями.
