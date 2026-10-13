@@ -10,7 +10,7 @@
 * CSS3
 * JavaScript 
 * Git
-* Typescript
+* Typescript - Изучаю прямо сейчас
 * Python - Активно изучаю прямо сейчас
   
 ---
