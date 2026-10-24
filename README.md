@@ -32,6 +32,7 @@
 *  📝 [Список задач](https://halimaaltyn2026.github.io/my-projects/todo.html) — удобный планировщик дел на день.
 * 🪪 [Моя визитка](https://halimaaltyn2026.github.io/my-projects/profile.html) — цифровая карточка веб-разработчика.
 * ⏳ [Песочница](https://halimaaltyn2026.github.io/sandbox) — место для тестирования кода и мелких скриптов.
+* 🎨 [Адаптивное портфолио](https://halimaaltyn2026.github.io/adaptive-portfolio/) — сайт с кейсами для телефона и компьютера.
 * 🧮 [Калькулятор](https://halimaaltyn2026.github.io/my-projects/calculator.html) - Простой калькулятор на JavaScript с базовыми операциями.
 * 🧮 [TS Калькулятор скидок](https://halimaaltyn2026.github.io/my-projects/ts-calculator.ts) — консольная программа TypeScript с валидацией данных и обработкой ошибок.
 
