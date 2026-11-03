@@ -35,4 +35,5 @@
 * 🧮 [Калькулятор](https://halimaaltyn2026.github.io/my-projects/calculator.html) - Простой калькулятор на JavaScript с базовыми операциями.
   
 * 📝 [Редактор заметок]
+(https://github.com/halimaaltyn2026/notes-editor) - Простой редактор заметок. 
   
