@@ -34,6 +34,5 @@
 * 🎨 [Адаптивное портфолио](https://halimaaltyn2026.github.io/adaptive-portfolio/) — сайт с кейсами для телефона и компьютера.
 * 🧮 [Калькулятор](https://halimaaltyn2026.github.io/my-projects/calculator.html) - Простой калькулятор на JavaScript с базовыми операциями.
   
-* 📝 Редактор заметок -
-(https://halimaaltyn2026.github.io/notes-editor) - Простой редактор заметок. 
+* 📝 [Редактор заметок](https://halimaaltyn2026.github.io/notes-editor) - Простой редактор заметок. 
   
