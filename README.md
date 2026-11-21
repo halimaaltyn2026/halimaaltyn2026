@@ -5,12 +5,12 @@
 ---
 
 ### 🛠 Технологии:
-* HTML5
-* CSS3
+* HTML5 
+* CSS3 
 * JavaScript 
-* Git
+* Git 
+* Python 
 * Typescript - Изучаю прямо сейчас
-* Python - Активно изучаю прямо сейчас  
 * Vue.js - Изучаю прямо сейчас
 
 --
