@@ -33,7 +33,7 @@
 * ⏳ [Песочница](https://halimaaltyn2026.github.io/sandbox) — место для тестирования кода и мелких скриптов.
 * 🎨 [Адаптивное портфолио](https://halimaaltyn2026.github.io/adaptive-portfolio/) — сайт с кейсами для телефона и компьютера.
 * 🧮 [Калькулятор](https://halimaaltyn2026.github.io/my-projects/calculator/) - Простой калькулятор на JavaScript с базовыми операциями.
-  * 📝 [Редактор заметок](https://halimaaltyn2026.github.io/notes-editor) - Простой редактор заметок. 
-  * 🧠 [База Знаний](https://halimaaltyn2026.github.io/html-css-cheat-sheet/) — моя личная шпаргалка по тегам и свойствам.
+* 📝 [Редактор заметок](https://halimaaltyn2026.github.io/notes-editor) - Простой редактор заметок.
+* 🧠 [База Знаний](https://halimaaltyn2026.github.io/html-css-cheat-sheet/) — моя личная шпаргалка по тегам и свойствам.
    
   
