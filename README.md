@@ -5,14 +5,15 @@
 ---
 
 ### 🛠 Технологии:
-* HTML5
-* CSS3
-* JavaScript
-* Git
-* Python
-* TypeScript
-* Vue.js — изучаю прямо сейчас
-* React — в планах на изучение
+* ✅ HTML5
+* ✅ CSS3
+* ✅ JavaScript
+* ✅ Git
+* ✅ Python
+* ✅ TypeScript
+* 🔄 Vue.js — изучаю прямо сейчас
+* 📌 React — в планах на изучение
+
 
 ---
 
